@@ -12,3 +12,10 @@ ovss_runs/
 # python
 __pycache__/
 *.pyc
+
+# common experiment outputs
+wandb/
+lightning_logs/
+runs/
+tb_logs/
+*.ckpt
