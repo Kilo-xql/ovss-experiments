@@ -1,0 +1,14 @@
+# data / weights / outputs (DO NOT COMMIT)
+*.lmdb
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+data/
+ovss_runs/
+**/*.npz
+**/*.log
+
+# python
+__pycache__/
+*.pyc
