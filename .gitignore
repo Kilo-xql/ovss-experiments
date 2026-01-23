@@ -19,3 +19,13 @@ lightning_logs/
 runs/
 tb_logs/
 *.ckpt
+
+# ==== ProxyCLIP (local large files) ====
+scripts/proxyclip/checkpoints/
+scripts/proxyclip/datasets_ref/
+scripts/proxyclip/outputs/
+
+# (optional) common junk
+**/__pycache__/
+**/*.pyc
+**/.DS_Store
