@@ -1,0 +1,12 @@
+
+# --- auto ignore ---
+__pycache__/
+**/__pycache__/
+*.pyc
+results.xlsx
+
+# cache / generated
+__pycache__/
+**/__pycache__/
+*.pyc
+results.xlsx
