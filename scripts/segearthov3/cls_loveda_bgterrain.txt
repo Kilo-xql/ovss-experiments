@@ -1,0 +1,7 @@
+background,terrain,ground,land,open area
+building,house
+road
+water
+barren,bareland,soil
+forest,tree
+agricultural
